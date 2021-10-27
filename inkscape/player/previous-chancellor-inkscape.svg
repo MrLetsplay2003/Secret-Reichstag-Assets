@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="previous-chancellor-inkscape.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="20.363479"
+       y="23.369835"
+       width="67.942924"
+       height="83.539318"
+       id="rect2032" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="271.46642"
+     inkscape:cy="281.5146"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1872"
+     inkscape:window-height="1027"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:0.999;fill:#979797;stroke-width:2.59844;stroke-linecap:round;paint-order:stroke fill markers;fill-opacity:1"
+       id="path851"
+       cx="67.733337"
+       cy="67.733337"
+       r="67.733337" />
+    <path
+       id="path1998"
+       style="opacity:0.999;fill:#723900;fill-opacity:1;stroke:none;stroke-width:1.371;stroke-linecap:round;paint-order:stroke fill markers"
+       d="M 67.733336,16.933335 A 50.800003,50.800003 0 0 0 16.933335,67.733336 50.800003,50.800003 0 0 0 67.733336,118.53334 50.800003,50.800003 0 0 0 118.53334,67.733336 50.800003,50.800003 0 0 0 67.733336,16.933335 Z m -0.07054,14.882813 a 35.917184,35.917188 0 0 1 0.07054,0 35.917184,35.917188 0 0 1 19.584464,5.808948 L 37.625096,87.3178 A 35.917184,35.917188 0 0 1 31.816148,67.733336 35.917184,35.917188 0 0 1 67.662798,31.816148 Z m 30.17878,16.332724 A 35.917184,35.917188 0 0 1 103.65053,67.733336 35.917184,35.917188 0 0 1 67.733336,103.65053 35.917184,35.917188 0 0 1 48.148872,97.841576 Z" />
+  </g>
+</svg>
