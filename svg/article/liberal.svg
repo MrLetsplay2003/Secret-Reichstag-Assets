@@ -11,12 +11,12 @@
  </metadata>
  <g>
   <rect width="135.47" height="196.43" fill="#fff" opacity=".999"/>
-  <rect x="9.525" y="9.525" width="116.42" height="177.38" rx="8.6094" ry="8.5616" fill="#004e6e" opacity=".999"/>
+  <rect x="9.525" y="9.525" width="116.42" height="177.38" rx="8.6094" ry="8.5616" fill="#0091b3" opacity=".999"/>
   <path d="m93.133 19.05 23.283 23.283v135.04h-97.367v-158.33z" fill="#fff" opacity=".999"/>
  </g>
- <path d="m93.133 42.333h23.283l-23.283-23.283z" fill="none" stroke="#004e6e" stroke-linejoin="round" stroke-width="4.2333"/>
- <g fill="#004e6e">
-  <g transform="matrix(.91164 0 0 .91164 5.9847 6.531)" stroke="#004e6e" stroke-linejoin="round" stroke-width="1.7504">
+ <path d="m93.133 42.333h23.283l-23.283-23.283z" fill="none" stroke="#0091b3" stroke-linejoin="round" stroke-width="4.2333"/>
+ <g fill="#0091b3">
+  <g transform="matrix(.91164 0 0 .91164 5.9847 6.531)" stroke="#0091b3" stroke-linejoin="round" stroke-width="1.7504">
    <ellipse transform="translate(-13.082 -17.31)" cx="34.515" cy="133.45" rx=".71231" ry=".7123" opacity=".999"/>
    <ellipse transform="translate(-6.9082 -17.298)" cx="34.515" cy="133.45" rx=".71231" ry=".7123" opacity=".999"/>
    <ellipse transform="translate(-.73485 -17.287)" cx="34.515" cy="133.45" rx=".71231" ry=".7123" opacity=".999"/>
