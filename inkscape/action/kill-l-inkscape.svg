@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="512"
    height="512"
    viewBox="0 0 135.46667 135.46667"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="kill-l-inkscape.svg">
+   inkscape:version="1.1.1 (1:1.1+202109281946+c3084ef5ed)"
+   sodipodi:docname="kill-l-inkscape-4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="13.766325"
+       y="45.452013"
+       width="107.69618"
+       height="44.132995"
+       id="rect841" />
+    <rect
+       x="13.766325"
+       y="45.452013"
+       width="107.69618"
+       height="44.132995"
+       id="rect18674" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
@@ -23,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="158.71545"
-     inkscape:cy="245.18423"
+     inkscape:zoom="2.8"
+     inkscape:cx="232.85714"
+     inkscape:cy="266.25"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -45,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +68,8 @@
      id="layer1">
     <g
        id="g1506"
-       transform="matrix(0.53069553,0.53069553,-0.53069553,0.53069553,71.076165,-7.4135769)">
+       transform="matrix(0.53069553,0.53069553,-0.53069553,0.53069553,71.076165,-7.4135769)"
+       style="display:none">
       <path
          id="path1440"
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.416199px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -76,5 +90,42 @@
          d="m 231,175 v 40 l -15,33.48047 V 460 l 6,6 h 68 l 6,-6 V 248.48047 L 281,215 v -40 h -25 z"
          transform="scale(0.26458334)" />
     </g>
+    <path
+       id="rect21276"
+       style="opacity:0.999;fill:#002838;fill-opacity:1;stroke:#002838;stroke-width:2.80383;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 92.464463,47.854158 c -17.138667,0.151939 -34.28575,-0.0814 -51.419328,0.226015 -3.418574,0.50714 -5.797387,3.983806 -5.776408,7.315786 0.184392,4.00152 0.04959,8.016525 0.0764,12.023929 -0.005,5.001555 -0.0082,10.013967 0.273514,15.005136 0.977289,3.539204 4.951602,5.679116 8.48069,5.092162 16.740799,-0.01554 33.482045,0.03624 50.222357,-0.119179 3.840034,-0.619989 6.425372,-4.806202 5.770282,-8.543204 -0.0371,-8.533042 0.12314,-17.075605 -0.201579,-25.601594 -0.740639,-3.279705 -4.148966,-5.522889 -7.425922,-5.399051 z" />
+    <rect
+       style="opacity:0.999;fill:#000000;fill-opacity:0;stroke:#2d9eb3;stroke-width:2.80389;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect835"
+       width="59.358047"
+       height="34.220085"
+       x="38.04266"
+       y="50.606354"
+       rx="4.3053036"
+       ry="4.3053036" />
+    <text
+       xml:space="preserve"
+       id="text839"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect841);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.07588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.9360219,-2.5499644e-8,2.5499644e-8,1.9360219,-63.37426,-26.235807)"
+       x="72.719864"
+       y="0"><tspan
+         x="55.723952"
+         y="55.078465"
+         id="tspan21903"><tspan
+           style="font-family:'Germania One';-inkscape-font-specification:'Germania One';text-align:center;text-anchor:middle"
+           id="tspan21901">FIRED</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text18672"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect18674);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.07588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.1494577,-1.5139685e-8,1.5139685e-8,1.1494577,-10.134934,0.42051908)"
+       x="72.719864"
+       y="0"><tspan
+         x="53.030509"
+         y="55.078465"
+         id="tspan21907"><tspan
+           style="font-family:'Germania One';-inkscape-font-specification:'Germania One';text-align:center;text-anchor:middle"
+           id="tspan21905">YOU'RE</tspan></tspan></text>
   </g>
 </svg>

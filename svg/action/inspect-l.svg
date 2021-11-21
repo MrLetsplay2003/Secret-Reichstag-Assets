@@ -5,7 +5,6 @@
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
    </cc:Work>
   </rdf:RDF>
  </metadata>
@@ -15,7 +14,7 @@
   <g transform="matrix(.3 0 0 .3 33.867 33.867)">
    <circle cx="67.733" cy="67.733" r="67.733" fill="#002838" opacity=".999" stroke-width="4.405" style="paint-order:stroke fill markers"/>
    <circle cx="67.733" cy="67.733" r="54.504" fill="#fff" opacity=".999" stroke-width="2.1886" style="paint-order:stroke fill markers"/>
-   <circle cx="67.733" cy="67.733" r="34.66" fill="#61c8d9" opacity=".999" stroke-width="2.1978" style="paint-order:stroke fill markers"/>
+   <circle cx="67.733" cy="67.733" r="34.66" fill="#2d9eb3" opacity=".999" stroke-width="2.1978" style="paint-order:stroke fill markers"/>
    <circle cx="67.733" cy="67.733" r="21.431" fill="#002838" opacity=".999" stroke-width="2.335" style="paint-order:stroke fill markers"/>
   </g>
  </g>
